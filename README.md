@@ -30,8 +30,6 @@ The goal of this project is to train a deep learning model to classify sentences
 
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
-  - [Start MLflow](#start-mlflow)
-  - [Copy/Push Project to VM](#copypush-project-to-vm)
   - [Create Virtual Environment](#create-virtual-environment)
   - [Install Requirements](#install-requirements)
   - [Get Data](#get-data)
@@ -53,20 +51,6 @@ The goal of this project is to train a deep learning model to classify sentences
 - Python 3.8+
 
 ## Setup Instructions
-
-### Start MLflow
-
-```sh
-cd ~/mlops_project/
-docker-compose up -d mysql mlflow minio
-```
-
-### Copy/Push Project to VM
-
-```sh
-mv sentiment_analysis_with_mlflow/ sentiment_analysis
-cd sentiment_analysis
-```
 
 ### Create Virtual Environment
 
