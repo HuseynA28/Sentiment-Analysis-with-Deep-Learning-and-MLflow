@@ -148,7 +148,7 @@ sentiment_analysis/
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name](mailto:your.email@example.com).
+For any questions or inquiries, please contact 
 
 
 
