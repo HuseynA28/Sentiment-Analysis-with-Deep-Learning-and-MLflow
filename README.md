@@ -101,13 +101,6 @@ uvicorn app:app --host 0.0.0.0 --port 8002 --reload
 
 Open your browser and navigate to [http://localhost:8002/docs](http://localhost:8002/docs)
 
-### Shut Down Docker Compose
-
-```sh
-cd ~/mlops_project/
-docker-compose down
-```
-
 ## Project Structure
 
 ```plaintext
